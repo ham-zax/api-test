@@ -19,8 +19,7 @@ headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
     'Accept': 'application/json, text/plain, */*',
     'Referer': 'https://explorer.io.net/',
-    'Token': 'eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Ink2SUlqV1JidlBKR1pIRzdCYV9rYSJ9.eyJodHRwczovL2lvLm5ldC91c2VyIjp7ImNyZWF0ZWQiOmZhbHNlLCJpb19pZCI6IjEyZjA5ODViLTJmZDctNDkzYi1hZWUzLWY2YmQzN2JjY2I4NiIsInByaW1hcnlfbWFpbCI6ImhkYW1uaXRAZ21haWwuY29tIn0sImlzcyI6Imh0dHBzOi8vdGVzdC11c2Vycy1taWdyYXRpb24udXMuYXV0aDAuY29tLyIsInN1YiI6Imdvb2dsZS1vYXV0aDJ8MTE3NjA5Nzc1OTk2NTQ4NzczODczIiwiYXVkIjpbImh0dHBzOi8vdGVzdC11c2Vycy1taWdyYXRpb24udXMuYXV0aDAuY29tL2FwaS92Mi8iLCJodHRwczovL3Rlc3QtdXNlcnMtbWlncmF0aW9uLnVzLmF1dGgwLmNvbS91c2VyaW5mbyJdLCJpYXQiOjE3MTk0MDY4MTcsImV4cCI6MTcyMTEzNDgxNywic2NvcGUiOiJvcGVuaWQgcHJvZmlsZSBlbWFpbCB1cGRhdGU6Y3VycmVudF91c2VyX21ldGFkYXRhIHJlYWQ6Y3VycmVudF91c2VyIG9mZmxpbmVfYWNjZXNzIiwiYXpwIjoicnY5amkzb2o0YnRzSWljVXNya0hyN0JzdkNSaHV3SGIifQ.VL3UBB94g0Z3SXUg-jErmr-3LIXeVvfkB-zd8n_KyuhrjgLXAZ3Gmcti7yf1vhfRyuqj6v1_trBnMvF8m3JxCXVtqkoxNLoKZZ6D3XeDB6TL3lNPvQ4XmSFbgvbTESZkjCXS7NcnBCK16EKfyIE7R1a8_-ZtQltVWKcWZdZBQAyfBNDABRBvZStdBl_6DmnEJA0J_DkTD_KB74f8u38SQTAGLEF4SG945zebb-KSxt7MKoC9Q_dHws-JrEEodZ1Z6BdcV3Y3sM3-iIExVHkt3So2_x2TfS8CAHEbERUolqEGHieb6e_IXYNIpj0Be7dmWMS6GYBlFPvv9h02FDBknQ'
-}
+    'Token': ''}
 
 # Pagination: start with the first page
 max_pages = 300  # Set default limit to 300 pages
